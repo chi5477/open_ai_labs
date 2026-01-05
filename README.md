@@ -2,7 +2,7 @@
 
 ## Session 記錄
 ```bash
-codex resume <session-id>
+codex resume 019b59b6-742c-7862-ad5b-4e30d89b2c1e
 ```
 
 ## 目的
