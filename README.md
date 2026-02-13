@@ -11,6 +11,7 @@ codex resume 019b59b6-742c-7862-ad5b-4e30d89b2c1e
 
 ## 實驗總覽
 - [01-debugging-requests：Debugging requests（headers 與 request ID）](./01-debugging-requests/README.md)
+- [02-openai-apps-sdk-examples：Solar system Python server（UI 渲染測試，含截圖驗證）](./02-openai-apps-sdk-examples/README.md)
 
 ## 共通前置條件
 - Git（用於檢查變更）
